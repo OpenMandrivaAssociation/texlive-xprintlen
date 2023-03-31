@@ -1,6 +1,6 @@
 Name:		texlive-xprintlen
 Version:	35928
-Release:	1
+Release:	2
 Summary:	Print TeX lengths in a variety of units
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xprintlen
