@@ -3,7 +3,7 @@ Version:	35928
 Release:	2
 Summary:	Print TeX lengths in a variety of units
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xprintlen
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xprintlen
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xprintlen.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xprintlen.doc.r%{version}.tar.xz
